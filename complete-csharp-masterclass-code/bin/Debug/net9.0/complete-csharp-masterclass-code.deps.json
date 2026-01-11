@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "complete-csharp-masterclass-code/1.0.0": {
+        "runtime": {
+          "complete-csharp-masterclass-code.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "complete-csharp-masterclass-code/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

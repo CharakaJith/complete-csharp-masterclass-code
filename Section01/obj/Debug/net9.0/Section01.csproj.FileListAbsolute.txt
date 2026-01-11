@@ -1,0 +1,14 @@
+W:\Learning\C#\Complete C# Masterclass - Udemy\complete-csharp-masterclass-code\Section01\bin\Debug\net9.0\Section01.exe
+W:\Learning\C#\Complete C# Masterclass - Udemy\complete-csharp-masterclass-code\Section01\bin\Debug\net9.0\Section01.deps.json
+W:\Learning\C#\Complete C# Masterclass - Udemy\complete-csharp-masterclass-code\Section01\bin\Debug\net9.0\Section01.runtimeconfig.json
+W:\Learning\C#\Complete C# Masterclass - Udemy\complete-csharp-masterclass-code\Section01\bin\Debug\net9.0\Section01.dll
+W:\Learning\C#\Complete C# Masterclass - Udemy\complete-csharp-masterclass-code\Section01\bin\Debug\net9.0\Section01.pdb
+W:\Learning\C#\Complete C# Masterclass - Udemy\complete-csharp-masterclass-code\Section01\obj\Debug\net9.0\Section01.GeneratedMSBuildEditorConfig.editorconfig
+W:\Learning\C#\Complete C# Masterclass - Udemy\complete-csharp-masterclass-code\Section01\obj\Debug\net9.0\Section01.AssemblyInfoInputs.cache
+W:\Learning\C#\Complete C# Masterclass - Udemy\complete-csharp-masterclass-code\Section01\obj\Debug\net9.0\Section01.AssemblyInfo.cs
+W:\Learning\C#\Complete C# Masterclass - Udemy\complete-csharp-masterclass-code\Section01\obj\Debug\net9.0\Section01.csproj.CoreCompileInputs.cache
+W:\Learning\C#\Complete C# Masterclass - Udemy\complete-csharp-masterclass-code\Section01\obj\Debug\net9.0\Section01.dll
+W:\Learning\C#\Complete C# Masterclass - Udemy\complete-csharp-masterclass-code\Section01\obj\Debug\net9.0\refint\Section01.dll
+W:\Learning\C#\Complete C# Masterclass - Udemy\complete-csharp-masterclass-code\Section01\obj\Debug\net9.0\Section01.pdb
+W:\Learning\C#\Complete C# Masterclass - Udemy\complete-csharp-masterclass-code\Section01\obj\Debug\net9.0\Section01.genruntimeconfig.cache
+W:\Learning\C#\Complete C# Masterclass - Udemy\complete-csharp-masterclass-code\Section01\obj\Debug\net9.0\ref\Section01.dll

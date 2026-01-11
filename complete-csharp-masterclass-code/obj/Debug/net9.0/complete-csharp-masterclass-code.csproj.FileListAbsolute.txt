@@ -1,0 +1,14 @@
+W:\Learning\C#\Complete C# Masterclass - Udemy\complete-csharp-masterclass-code\complete-csharp-masterclass-code\bin\Debug\net9.0\complete-csharp-masterclass-code.exe
+W:\Learning\C#\Complete C# Masterclass - Udemy\complete-csharp-masterclass-code\complete-csharp-masterclass-code\bin\Debug\net9.0\complete-csharp-masterclass-code.deps.json
+W:\Learning\C#\Complete C# Masterclass - Udemy\complete-csharp-masterclass-code\complete-csharp-masterclass-code\bin\Debug\net9.0\complete-csharp-masterclass-code.runtimeconfig.json
+W:\Learning\C#\Complete C# Masterclass - Udemy\complete-csharp-masterclass-code\complete-csharp-masterclass-code\bin\Debug\net9.0\complete-csharp-masterclass-code.dll
+W:\Learning\C#\Complete C# Masterclass - Udemy\complete-csharp-masterclass-code\complete-csharp-masterclass-code\bin\Debug\net9.0\complete-csharp-masterclass-code.pdb
+W:\Learning\C#\Complete C# Masterclass - Udemy\complete-csharp-masterclass-code\complete-csharp-masterclass-code\obj\Debug\net9.0\complete-csharp-masterclass-code.GeneratedMSBuildEditorConfig.editorconfig
+W:\Learning\C#\Complete C# Masterclass - Udemy\complete-csharp-masterclass-code\complete-csharp-masterclass-code\obj\Debug\net9.0\complete-csharp-masterclass-code.AssemblyInfoInputs.cache
+W:\Learning\C#\Complete C# Masterclass - Udemy\complete-csharp-masterclass-code\complete-csharp-masterclass-code\obj\Debug\net9.0\complete-csharp-masterclass-code.AssemblyInfo.cs
+W:\Learning\C#\Complete C# Masterclass - Udemy\complete-csharp-masterclass-code\complete-csharp-masterclass-code\obj\Debug\net9.0\complete-csharp-masterclass-code.csproj.CoreCompileInputs.cache
+W:\Learning\C#\Complete C# Masterclass - Udemy\complete-csharp-masterclass-code\complete-csharp-masterclass-code\obj\Debug\net9.0\complete-csharp-masterclass-code.dll
+W:\Learning\C#\Complete C# Masterclass - Udemy\complete-csharp-masterclass-code\complete-csharp-masterclass-code\obj\Debug\net9.0\refint\complete-csharp-masterclass-code.dll
+W:\Learning\C#\Complete C# Masterclass - Udemy\complete-csharp-masterclass-code\complete-csharp-masterclass-code\obj\Debug\net9.0\complete-csharp-masterclass-code.pdb
+W:\Learning\C#\Complete C# Masterclass - Udemy\complete-csharp-masterclass-code\complete-csharp-masterclass-code\obj\Debug\net9.0\complete-csharp-masterclass-code.genruntimeconfig.cache
+W:\Learning\C#\Complete C# Masterclass - Udemy\complete-csharp-masterclass-code\complete-csharp-masterclass-code\obj\Debug\net9.0\ref\complete-csharp-masterclass-code.dll
