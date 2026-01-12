@@ -12,3 +12,4 @@ W:\Learning\C#\Complete C# Masterclass - Udemy\complete-csharp-masterclass-code\
 W:\Learning\C#\Complete C# Masterclass - Udemy\complete-csharp-masterclass-code\Section01\obj\Debug\net9.0\Section01.pdb
 W:\Learning\C#\Complete C# Masterclass - Udemy\complete-csharp-masterclass-code\Section01\obj\Debug\net9.0\Section01.genruntimeconfig.cache
 W:\Learning\C#\Complete C# Masterclass - Udemy\complete-csharp-masterclass-code\Section01\obj\Debug\net9.0\ref\Section01.dll
+W:\Learning\C#\Complete C# Masterclass - Udemy\complete-csharp-masterclass-code\Section01\obj\Debug\net9.0\Section01.sourcelink.json

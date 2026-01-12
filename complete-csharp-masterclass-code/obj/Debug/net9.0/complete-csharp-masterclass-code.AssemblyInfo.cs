@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("complete-csharp-masterclass-code")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e64b466dbd49282ed88d94f13a94c528f9a8ba4")]
 [assembly: System.Reflection.AssemblyProductAttribute("complete-csharp-masterclass-code")]
 [assembly: System.Reflection.AssemblyTitleAttribute("complete-csharp-masterclass-code")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
