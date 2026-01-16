@@ -52,3 +52,18 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+## .NET / Visual Studio
+bin/
+obj/
+.vs/
+
+## User-specific
+*.user
+*.suo
+*.cache
+
+## Build artifacts
+*.AssemblyInfo.cs
+*.GeneratedMSBuildEditorConfig.editorconfig
+*.GlobalUsings.g.cs
