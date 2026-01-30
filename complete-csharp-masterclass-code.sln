@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.0.31903.59
+# Visual Studio Version 18
+VisualStudioVersion = 18.2.11408.102 d18.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "complete-csharp-masterclass-code", "complete-csharp-masterclass-code\complete-csharp-masterclass-code.csproj", "{15E16B5C-B11B-4AC5-BF69-9A701DDBACC7}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "complete-csharp-masterclass-code", "complete-csharp-masterclass-code", "{DAB603FB-D5FD-A9FD-4294-8621FC2F309F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section01", "complete-csharp-masterclass-code\Section01\Section01.csproj", "{1836A6D2-94F1-440B-88DD-8B6424C464B1}"
 EndProject
@@ -116,8 +114,5 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{1836A6D2-94F1-440B-88DD-8B6424C464B1} = {DAB603FB-D5FD-A9FD-4294-8621FC2F309F}
 	EndGlobalSection
 EndGlobal
